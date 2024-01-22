@@ -15,19 +15,37 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
+<div>
+    <a href="https://www.loom.com/share/5c24b618ad6443288a7a571f0d21b2a7">
+    </a>
+    <a href="https://www.loom.com/share/5c24b618ad6443288a7a571f0d21b2a7">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/5c24b618ad6443288a7a571f0d21b2a7-with-play.gif">
+    </a>
+  </div>
+  
 ## App Brainstorming (Step 4)
+
+Apple Maps:
+
+Switch Up Your Route: Easy to swap the start and end points to check travel times in both directions. Just drag point Y over point X, and you've got the time.
+Fav places: With your favorite places, you can get to them quicker without the typing it every time.
+
+Instagram:
+Story Views: shows you exactly who's been watching/stalking your story.
+Discover Page: It's so addictiv and in my opinion, it's better than youtube and pinterest algorithm (but TikTok is the better than instagram).
+Muting: mute users without unfollowing or blocking them. Their stories, messages, and posts and they'll never know!
+
+iMessage:
+Recently deleted: recover what your deleted messages.
+Memoji: using memoji to chat (tho I don't use it frequently, I love the idea)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I did the connection changeBackgroundColor connection twice so I got help from Slack channel and changed it. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Anu-Ujin Sergelen]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
